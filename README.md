@@ -7,6 +7,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D1Q2 - Reverse a string. <strong> Easy</strong></li>
   <li>D1Q3 - Maximum subarray of an array(Kadane's algo). <strong> Medium</strong></li>
   <li>D1Q4 - Check if array contains duplicate. <strong> Easy</strong></li>
+  <li>D1Q5 - Chocolate distribution problem; difference between maximum number of chocolates given to a student and minimum number of chocolates given to a student is minimum<strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
