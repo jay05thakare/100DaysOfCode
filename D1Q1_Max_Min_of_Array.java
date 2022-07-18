@@ -1,5 +1,3 @@
-import java.util.*;
-
 class D1Q1_Max_Min_of_Array{
 
   public static void minMax(int arr[]) {
