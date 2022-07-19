@@ -13,6 +13,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D2Q3 - Valid Anagram <strong> Easy</strong></li>
   <li>D2Q4 - Valid Parentheses <strong> Easy</strong></li>
   <li>D2Q5 - Remove Consecutive Characters <strong> Easy</strong></li>
+  <li>D2Q6 - Longest common prefix <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
