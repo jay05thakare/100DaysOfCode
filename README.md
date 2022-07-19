@@ -11,6 +11,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D2Q1 - Search an element in a Sorted & Rotated Array | Binary Search <strong> Medium</strong></li>
   <li>D2Q2 - Valid Palindrome <strong> Easy</strong></li>
   <li>D2Q3 - Valid Anagram <strong> Easy</strong></li>
+  <li>D2Q4 - Valid Parentheses <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
