@@ -7,7 +7,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D1Q2 - Reverse a string. <strong> Easy</strong></li>
   <li>D1Q3 - Maximum subarray of an array(Kadane's algo). <strong> Medium</strong></li>
   <li>D1Q4 - Check if array contains duplicate. <strong> Easy</strong></li>
-  <li>D1Q5 - Chocolate distribution problem | difference between maximum number of chocolates given to a student and minimum number of chocolates given to a student is minimum. <strong> Easy</strong></li>
+  <li>D1Q5 - Chocolate distribution problem | diff between max no. of chocolates and min no. of chocolates given to a student is min. <strong> Easy</strong></li>
   <li>D2Q1 - Search an element in a Sorted & Rotated Array | Binary Search <strong> Medium. </strong></li>
   <li>D2Q2 - Valid Palindrome. <strong> Easy</strong></li>
   <li>D2Q3 - Valid Anagram. <strong> Easy</strong></li>
