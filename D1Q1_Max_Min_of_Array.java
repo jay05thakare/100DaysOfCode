@@ -15,7 +15,7 @@ class D1Q1_Max_Min_of_Array{
 
     System.out.println("Minimun is: " + min);
     System.out.println("Maximum is: " + max);
-    System.out.println("Time complexity is O(n) ");
+    System.out.println("Time complexity is O(n)");
   }
 
   public static void main(String args[]) {
