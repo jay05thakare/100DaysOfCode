@@ -15,8 +15,10 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D2Q5 - Remove Consecutive Characters. <strong> Easy</strong></li>
   <li>D2Q6 - Longest common prefix. <strong> Easy</strong></li>
   <li>D2Q7 - Convert a sentence into its equivalent mobile numeric keypad sequence. <strong> Easy</strong></li>
+  <li>D3Q1 - Print duplicates and their frequency. <strong> Easy</strong></li>
+  <li>D2Q7 - Permute two arrays such that sum of every pair is greater or equal to K <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
-  
+
 </ol>
