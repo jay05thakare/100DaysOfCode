@@ -19,6 +19,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D3Q2 - Permute two arrays such that sum of every pair is greater or equal to K. <strong> Easy</strong></li>
   <li>D3Q3 - Count sort algorithm. <strong> Medium</strong></li>
   <li>D3Q4 - Find common elements in three sorted arrays. <strong> Medium</strong></li>
+  <li>D3Q5 - Searching in an array where adjacent differ by at most k. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
