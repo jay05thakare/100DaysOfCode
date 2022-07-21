@@ -21,6 +21,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D3Q4 - Find common elements in three sorted arrays. <strong> Medium</strong></li>
   <li>D3Q5 - Searching in an array where adjacent differ by at most k. <strong> Easy</strong></li>
   <li>D4Q1 - Ceiling in a sorted array. <strong> Easy</strong></li>
+  <li>D4Q2 - Find a pair with the given difference. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
