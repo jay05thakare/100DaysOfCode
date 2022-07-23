@@ -22,7 +22,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D3Q5 - Searching in an array where adjacent differ by at most k. <strong> Easy</strong></li>
   <li>D4Q1 - Ceiling in a sorted array. <strong> Easy</strong></li>
   <li>D4Q2 - Find a pair with the given difference. <strong> Easy</strong></li>
-  <li>D5Q1 - Question. <strong> Easy</strong></li>
+  <li>D5Q1 - Search in a row wise and column wise sorted 2D matrix. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
