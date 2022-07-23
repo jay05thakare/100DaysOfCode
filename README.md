@@ -23,6 +23,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D4Q1 - Ceiling in a sorted array. <strong> Easy</strong></li>
   <li>D4Q2 - Find a pair with the given difference. <strong> Easy</strong></li>
   <li>D5Q1 - Search in a row wise and column wise sorted 2D matrix. <strong> Medium</strong></li>
+  <li>D5Q1 - Reverse Linked List. <strong> Medium</strong></li>
   <li></li>
   <li></li>
   <li></li>
