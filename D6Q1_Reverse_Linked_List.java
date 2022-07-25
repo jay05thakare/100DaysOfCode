@@ -53,7 +53,9 @@ class D6Q1_Reverse_Linked_List {
 
 		System.out.println("Given Linked list");
 		list.printList(head);
+
 		head = list.reverse(head);
+		
 		System.out.println("");
 		System.out.println("Reversed linked list ");
 		list.printList(head);

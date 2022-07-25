@@ -25,6 +25,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D5Q1 - Search in a row wise and column wise sorted 2D matrix. <strong> Medium</strong></li>
   <li>D6Q1 - Reverse Linked List. <strong> Medium</strong></li>
   <li>D7Q1 - Determine if the linked list has a cycle in it. <strong> Medium</strong></li>
+  <li>D7Q2 - Merge Two Sorted Linked Lists. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
