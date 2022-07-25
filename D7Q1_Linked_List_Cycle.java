@@ -38,6 +38,6 @@ public class D7Q1_Linked_List_Cycle {
     // create loop for testing purpose
 		list.head.next.next.next = list.head.next;
 
-    list.hasCycle() ;
+    list.hasCycle();
   }
 }
