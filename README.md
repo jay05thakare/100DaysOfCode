@@ -29,6 +29,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D7Q3 - Delete without head pointer in singly linked list. <strong> Easy</strong></li>
   <li>D8Q1 - Remove Duplicated from an unsorted linked list. <strong> Easy</strong></li>
   <li>D8Q2 - Sort a linked list of 0s, 1s and 2s. <strong> Easy</strong></li>
+  <li>D8Q3 - Multiply two linked lists. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
