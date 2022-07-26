@@ -31,6 +31,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D8Q2 - Sort a linked list of 0s, 1s and 2s. <strong> Easy</strong></li>
   <li>D8Q3 - Multiply two linked lists. <strong> Easy</strong></li>
   <li>D8Q4 - Implement two stacks in an array. <strong> Easy</strong></li>
+  <li>D8Q5 - Evaluation of Postfix Expression Using Stack. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
