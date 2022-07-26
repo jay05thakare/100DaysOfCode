@@ -26,6 +26,8 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D6Q1 - Reverse Linked List. <strong> Medium</strong></li>
   <li>D7Q1 - Determine if the linked list has a cycle in it. <strong> Medium</strong></li>
   <li>D7Q2 - Merge Two Sorted Linked Lists. <strong> Easy</strong></li>
+  <li>D7Q3 - Delete without head pointer in singly linked list. <strong> Easy</strong></li>
+  <li>D8Q1 - Remove Duplicated from an unsorted linked list. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
