@@ -33,6 +33,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D8Q4 - Implement two stacks in an array. <strong> Easy</strong></li>
   <li>D8Q5 - Evaluation of Postfix Expression Using Stack. <strong> Easy</strong></li>
   <li>D8Q6 - Implement a last-in-first-out (LIFO) stack using only two queues. <strong> Easy</strong></li>
+  <li>D9Q1 - Queue reversal. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
