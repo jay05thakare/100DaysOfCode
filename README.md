@@ -40,6 +40,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D10Q3 - Minimum Sum of Absolute Differences of Pairs. <strong> Easy</strong></li>
   <li>D10Q4 - Find maximum height pyramid from the given array of objects. <strong> Easy</strong></li>
   <li>D10Q5 - Minimum cost for acquiring all coins with k extra coins allowed with every coin. <strong> Easy</strong></li>
+  <li>D10Q6 - Maximum Equal sum of Three Stacks. <strong> Medium</strong></li>
   <li></li>
   <li></li>
   <li></li>
