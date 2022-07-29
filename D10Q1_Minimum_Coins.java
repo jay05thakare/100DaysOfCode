@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class D10Q1_Activity_Selection {
+public class D10Q1_Minimum_Coins {
 
   public static List<Integer> minCoins(int N) {
     
