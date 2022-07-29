@@ -35,7 +35,8 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D8Q6 - Implement a last-in-first-out (LIFO) stack using only two queues. <strong> Easy</strong></li>
   <li>D9Q1 - Queue reversal. <strong> Easy</strong></li>
   <li>D9Q2 - Reverse First K elements of Queue. <strong> Easy</strong></li>
-  <li>D10Q1 - Reverse First K elements of Queue. <strong> Easy</strong></li>
+  <li>D10Q1 - Greedy Algorithm to find Minimum number of Coins. <strong> Easy</strong></li>
+  <li>D10Q2 - Minimum sum formed by digits. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
