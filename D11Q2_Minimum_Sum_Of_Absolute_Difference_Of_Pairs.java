@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class D10Q3_Minimum_Sum_Of_Absolute_Difference_Of_Pairs {
+public class D11Q2_Minimum_Sum_Of_Absolute_Difference_Of_Pairs {
 
   static long findMinSum(int[] A,int[] B,int N) { 
     Arrays.sort(A);

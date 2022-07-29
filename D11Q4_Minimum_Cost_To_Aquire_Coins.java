@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class D10Q5_Minimum_Cost_To_Aquire_Coins {
+public class D11Q4_Minimum_Cost_To_Aquire_Coins {
     
     public static int minAmount(int arr[], int n){
         Arrays.sort(arr);

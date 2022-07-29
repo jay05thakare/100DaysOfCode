@@ -2,7 +2,7 @@
 
 
   import java.util.*;
-  public class D10Q4_Height_Of_Pyramid {
+  public class D11Q3_Height_Of_Pyramid {
     
     public static int heightPyramid(int arr[], int n){
         Arrays.sort(arr);

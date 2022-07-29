@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class D10Q6_Max_Equal_Sum_Of_3_Stacks {
+public class D10Q2_Max_Equal_Sum_Of_3_Stacks {
 
   public static int maxEqualSum(int N1,int N2,int N3, int[] S1, int[] S2, int[] S3) {
     // code here

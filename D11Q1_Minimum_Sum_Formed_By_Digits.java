@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class D10Q2_Minimum_Sum_Formed_By_Digits {
+public class D11Q1_Minimum_Sum_Formed_By_Digits {
   public static long minSum(int arr[], int n)
     {
         // Your code goes here
