@@ -1,5 +1,6 @@
 # 100DaysOfCode
 I'm publicly committing to the 100DaysOfCode Challenge starting today! Learn More and Join me! hey @ka11away https://100DaysOfCode.com #100DaysOfCode #100daysofDSA <br>
+Question list: https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0 <br>
 Twitter profile: https://twitter.com/jay05thakare <br><br>
 
 <ol>
@@ -41,6 +42,8 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D11Q2 - Minimum Sum of Absolute Differences of Pairs. <strong> Easy</strong></li>
   <li>D11Q3 - Find maximum height pyramid from the given array of objects. <strong> Easy</strong></li>
   <li>D11Q4 - Minimum cost for acquiring all coins with k extra coins allowed with every coin. <strong> Easy</strong></li>
+  <li>D12Q1 - Maximum Depth of Binary Tree. <strong> Easy</strong></li>
+  <li>D12Q2 - Reverse Level Order Traversal. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
