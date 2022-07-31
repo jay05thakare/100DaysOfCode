@@ -44,6 +44,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D11Q4 - Minimum cost for acquiring all coins with k extra coins allowed with every coin. <strong> Easy</strong></li>
   <li>D12Q1 - Maximum Depth of Binary Tree. <strong> Easy</strong></li>
   <li>D12Q2 - Reverse Level Order Traversal. <strong> Easy</strong></li>
+  <li>D12Q3 - Subtree of Another Tree. <strong> Medium</strong></li>
   <li></li>
   <li></li>
   <li></li>
