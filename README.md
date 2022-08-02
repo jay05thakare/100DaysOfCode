@@ -45,6 +45,8 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D12Q1 - Maximum Depth of Binary Tree. <strong> Easy</strong></li>
   <li>D12Q2 - Reverse Level Order Traversal. <strong> Easy</strong></li>
   <li>D13Q1 - Subtree of Another Tree. <strong> Medium</strong></li>
+  <li>D14Q1 - Binary IP address to dotted decimal IP address. <strong> Medium</strong></li>
+  <li>D15Q1 - Invert Binary Tree. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
