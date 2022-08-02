@@ -47,6 +47,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D13Q1 - Subtree of Another Tree. <strong> Medium</strong></li>
   <li>D14Q1 - Binary IP address to dotted decimal IP address. <strong> Medium</strong></li>
   <li>D15Q1 - Invert Binary Tree. <strong> Easy</strong></li>
+  <li>D15Q2 - Binary Tree Level Order Traversal. <strong> Medium</strong></li>
   <li></li>
   <li></li>
   <li></li>
