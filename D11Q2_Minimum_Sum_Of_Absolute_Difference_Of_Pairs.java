@@ -8,7 +8,6 @@ public class D11Q2_Minimum_Sum_Of_Absolute_Difference_Of_Pairs {
   static long findMinSum(int[] A,int[] B,int N) { 
     Arrays.sort(A);
     Arrays.sort(B);
-    
     long sum = 0;
     
     for(int i = 0; i<N; i++){

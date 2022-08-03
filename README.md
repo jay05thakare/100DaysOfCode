@@ -49,6 +49,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D15Q1 - Invert Binary Tree. <strong> Easy</strong></li>
   <li>D15Q2 - Binary Tree Level Order Traversal. <strong> Medium</strong></li>
   <li>D15Q3 - Left View of Binary Tree. <strong> Easy</strong></li>
+  <li>D16Q1 - Right View of Binary Tree. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
