@@ -51,6 +51,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D15Q3 - Left View of Binary Tree. <strong> Easy</strong></li>
   <li>D16Q1 - Right View of Binary Tree. <strong> Easy</strong></li>
   <li>D16Q2 - Dotted decimal IP address to binary IP address. <strong> Easy</strong></li>
+  <li>D17Q1 - Inverted pyramid pattern. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
