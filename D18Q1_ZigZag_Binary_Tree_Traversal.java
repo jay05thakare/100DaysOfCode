@@ -5,7 +5,7 @@
 
 
 /*
-//Function to store the zig zag order traversal of tree in a list.
+//Function to store the zig zag order traversal of tree in a list
 ArrayList<Integer> zigZagTraversal(Node root)
 {
     //Add your code here.
