@@ -53,6 +53,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D16Q2 - Dotted decimal IP address to binary IP address. <strong> Easy</strong></li>
   <li>D17Q1 - Inverted pyramid pattern. <strong> Easy</strong></li>
   <li>D18Q1 - ZigZag Binary Tree Traversal. <strong> Easy</strong></li>
+  <li>D18Q2 - Mirror of a Binary Tree. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
