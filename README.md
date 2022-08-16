@@ -58,6 +58,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D19Q2 - Check if all leaf are at same level. <strong> Easy</strong></li>
   <li>D20Q1 - Check for Balanced Tree. <strong> Easy</strong></li>
   <li>D20Q2 - TIAA question. <strong> Easy</strong></li>
+  <li>D20Q3 - Transform to Sum Tree. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
