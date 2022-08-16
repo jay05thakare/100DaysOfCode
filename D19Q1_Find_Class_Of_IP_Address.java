@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class D19Q1_Find_Class_Of_IP_Address {
 
