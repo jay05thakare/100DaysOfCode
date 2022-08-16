@@ -59,6 +59,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D20Q1 - Check for Balanced Tree. <strong> Easy</strong></li>
   <li>D20Q2 - TIAA question. <strong> Easy</strong></li>
   <li>D20Q3 - Transform to Sum Tree. <strong> Easy</strong></li>
+  <li>D20Q4 - Check if Tree is Isomorphic. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
