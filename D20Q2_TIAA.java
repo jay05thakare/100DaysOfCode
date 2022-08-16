@@ -1,7 +1,3 @@
-import java.util.*;
-
-import javax.lang.model.util.ElementScanner6;
-
 
 public class D20Q2_TIAA {
   public static void main(String[] args) {

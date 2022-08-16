@@ -54,6 +54,10 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D17Q1 - Inverted pyramid pattern. <strong> Easy</strong></li>
   <li>D18Q1 - ZigZag Binary Tree Traversal. <strong> Easy</strong></li>
   <li>D18Q2 - Mirror of a Binary Tree. <strong> Easy</strong></li>
+  <li>D19Q1 - Find class of an IP address. <strong> Easy</strong></li>
+  <li>D19Q2 - Check if all leaf are at same level. <strong> Easy</strong></li>
+  <li>D20Q1 - Check for Balanced Tree. <strong> Easy</strong></li>
+  <li>D20Q2 - TIAA question. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
