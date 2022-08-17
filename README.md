@@ -62,6 +62,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D20Q4 - Check if Tree is Isomorphic. <strong> Easy</strong></li>
   <li>D20Q5 - Check if two trees are same. <strong> Easy</strong></li>
   <li>D21Q1 - Build a BST from a given array of values. <strong> Easy</strong></li>
+  <li>D21Q2 - Search a key value in a BST. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
