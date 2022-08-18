@@ -68,6 +68,8 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D21Q5 - Print all paths from the root element. <strong> Easy</strong></li>
   <li>D22Q1 - Find Lowest Common Ancestor of a Binary Search Tree. <strong> Easy</strong></li>
   <li>D22Q2 - Minimum element in BST. <strong> Easy</strong></li>
+  <li>D22Q3 - Grocery Sale. <strong> Easy</strong></li>
+  <li>D22Q4 - Find Special Prie Number. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
