@@ -66,6 +66,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D21Q3 - Delete a key value in a BST. <strong> Easy</strong></li>
   <li>D21Q4 - Print all element in between the given range in BST. <strong> Easy</strong></li>
   <li>D21Q5 - Print all paths from the root element. <strong> Easy</strong></li>
+  <li>D22Q1 - Find Lowest Common Ancestor of a Binary Search Tree. <strong> Easy</strong></li>
   <li></li>
   <li></li>
   <li></li>
