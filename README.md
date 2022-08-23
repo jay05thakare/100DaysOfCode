@@ -70,6 +70,8 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D22Q2 - Minimum element in BST. <strong> Easy</strong></li>
   <li>D22Q3 - Grocery Sale. <strong> Easy</strong></li>
   <li>D22Q4 - Find Special Prie Number. <strong> Easy</strong></li>
+  <li>D23Q1 - How a URL fetches result. <strong> Easy</strong></li>
+  <li>D24Q1 - Playfair cipher encryption. <strong> Medium</strong></li>
   <li></li>
   <li></li>
   <li></li>
