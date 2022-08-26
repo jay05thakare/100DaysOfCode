@@ -1,0 +1,182 @@
+/* common styles starts */
+*{
+  font-family: 'Lato', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+button{
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.container{
+  width: 100vw;
+  position: relative;
+}
+/* common styles ends */
+
+/* sidebar starts */
+.side-bar{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  height: 100vh;
+  justify-content: space-around;
+  padding:0 10px;
+  background-color: #f8f4f4;
+  z-index: 1;
+}
+
+.side-bar button{
+  color: #000000;
+  border-radius: 50%;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+/* sidebar ends */
+
+/* playlist section starts */
+.playlist-section{
+  position: relative;
+  padding-left: 35px;
+}
+
+.playlist-header{
+  display: flex;
+  padding: 35px;
+  background-color: #484444;
+  color: #ffffff;
+}
+
+.playlist-header .header-poster{
+  margin-right: 35px;
+}
+
+.playlist-header .header-poster img{
+  width: 98%;
+}
+
+.playlist-desc-func{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-transform: capitalize;
+}
+
+.playlist-desc h6{
+  padding-top: 10px;
+}
+
+.playlist-desc span, h6{
+  font-size: 12px;
+}
+
+.playlist-func button{
+  color: #ffffff;
+  font-size: 14px;
+}
+
+div.playlist-func > *{
+  margin-right: 12px;
+}
+
+.playlist{
+  padding: 10px;
+}
+
+.playlist-table{
+ width: 100%;
+ border-collapse: collapse;
+ counter-reset: rowNumber;
+}
+
+.playlist-table td{
+  padding: 12px;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+
+.playlist-table .sync span{
+  color: #0027d4;
+  font-weight: 400;
+  border: 1px solid #000;
+  text-transform: uppercase;
+}
+
+.playlist-table tr:nth-child(even){
+  background-color: #f8f4f4;
+}
+
+.playlist-table tr::before{
+  display: table-cell;
+  counter-increment: rowNumber;
+  content: counter(rowNumber) ".";
+  text-align: right;
+  vertical-align: middle;
+  font-size: 12px;
+}
+
+/* playlist section ends */
+
+/* bottom bar starts */
+.bottom-bar{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  color: #ffffff;
+  background-color: #486c9c;
+  text-transform: capitalize;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.bottom-bar-left{
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+}
+
+.bottom-poster{
+  width: 80px;
+  margin-right: 10px;
+}
+
+.bottom-song{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+div.bottom-song > *{
+  padding-top: 10px;
+}
+
+.bottom-poster img{
+  width: 100%;
+}
+
+.bottom-bar-right{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.bottom-bar-right button{
+  width: 30px;
+  height: 30px;
+  color: #ffffff;
+  border-radius: 50%;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+/* bottom bar ends */
