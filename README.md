@@ -72,7 +72,9 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D22Q4 - Find Special Prie Number. <strong> Easy</strong></li>
   <li>D23Q1 - How a URL fetches result. <strong> Easy</strong></li>
   <li>D24Q1 - Playfair cipher encryption. <strong> Medium</strong></li>
-  <li>D24Q1 - Cattyboard <strong> Medium</strong></li>
+  <li>D25Q1 - Cattyboard <strong> Medium</strong></li>
+  <li>D26Q1 - Binary IP to Hexadecimal IP <strong> Easy</strong></li>
+  <li>D27Q1 - Subnet Masking of an IP address <strong> Easy</strong></li>
   <li></li>
   <li></li>
 
