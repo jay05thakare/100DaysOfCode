@@ -9,6 +9,7 @@
         System.out.println("ENTER IP:");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String ip = br.readLine();
+        System.out.println();
         String checkclass = ip.substring(0, 3);
 
 
@@ -20,20 +21,24 @@
             if(cc<128)
             {
                 System.out.println("Class A");
+                System.out.println();
                 mask = "255.0.0.0";
             }
             if(cc>127 && cc<192)
             {
                 System.out.println("Class B");
+                System.out.println();
                 mask = "255.255.0.0";
             }
             if(cc>191)
             {
                 System.out.println("Class C");
+                System.out.println();
                 mask = "255.255.255.0";
             }
         }
         System.out.println("MASK:\n"+mask);
+                System.out.println();
 
         String networkAddr="";
         String[] ipAddrParts=ip.split("\\.");
@@ -46,7 +51,7 @@
         networkAddr+=z+".";
         }
      
-    System.out.println("ADDRESS:\n"+networkAddr);
+    System.out.println("ADDRESS:\n"+networkAddr.substring(0, networkAddr.length()-1));
    }
  
 }
