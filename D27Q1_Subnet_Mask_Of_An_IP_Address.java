@@ -19,14 +19,17 @@
         {
             if(cc<128)
             {
+                System.out.println("Class A");
                 mask = "255.0.0.0";
             }
             if(cc>127 && cc<192)
             {
+                System.out.println("Class B");
                 mask = "255.255.0.0";
             }
             if(cc>191)
             {
+                System.out.println("Class C");
                 mask = "255.255.255.0";
             }
         }
