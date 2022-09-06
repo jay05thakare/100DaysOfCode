@@ -75,6 +75,7 @@ Twitter profile: https://twitter.com/jay05thakare <br><br>
   <li>D25Q1 - Cattyboard <strong> Medium</strong></li>
   <li>D26Q1 - Binary IP to Hexadecimal IP <strong> Easy</strong></li>
   <li>D27Q1 - Subnet Masking of an IP address <strong> Easy</strong></li>
+  <li>D27Q2 - Subnet Mask for required hosts <strong> Hard</strong></li>
   <li></li>
   <li></li>
 
