@@ -45,7 +45,7 @@ public class D16Q2_Dotted_Decimal_IP_To_Binary_IP_Address {
         String term = convertDecimal(b);
         binary += term;
       }else{
-        binary += " ";
+        binary += ".";
       }
     }
 
@@ -54,7 +54,7 @@ public class D16Q2_Dotted_Decimal_IP_To_Binary_IP_Address {
 
   
   public static void main(String[] args) {
-    String str = "128.128.128.128";
+    String str = "200.10.20.40";
 
     System.out.println(dottedToBinaryIP(str));
   }
