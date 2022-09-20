@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-public class D30Q1_CaesarCipher {
+public class tempCodeRunnerFile {
   // implementation of Encryption by using Caesar cipher program in Java //to keep
   // track of index
   public static final String alpha = "abcdefghijklmnopqrstuvwxyz";
