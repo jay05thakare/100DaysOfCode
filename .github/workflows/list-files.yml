@@ -1,0 +1,25 @@
+name: List Files
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  list-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: List Files
+        run: |
+          echo "File List:" > file-list.md
+          ls -p | grep -v / >> file-list.md
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "jay05thakare@gmail.com"
+          git config --local user.name "Jay Thakare"
+          git add file-list.md
+          git commit -m "Update file list"
+          git push
