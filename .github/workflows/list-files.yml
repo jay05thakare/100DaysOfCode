@@ -2,7 +2,7 @@ name: List Files
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   list-files:
