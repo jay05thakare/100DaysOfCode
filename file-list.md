@@ -62,6 +62,7 @@ D33Q2_Sort_Sorted_Arrays.java
 D33Q3_Diff_Max_Min_Occurence.java
 D34Q1_Next_Permutation.java
 D34Q2_Buy_Stock.java
+D34Q3_Repeat_and_Missing.java
 D3Q1_Print_Duplicates.java
 D3Q2_Permute_Arrays.java
 D3Q3_Count_Sort.java
