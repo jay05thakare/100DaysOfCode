@@ -64,6 +64,8 @@ D34Q1_Next_Permutation.java
 D34Q2_Buy_Stock.java
 D34Q3_Repeat_and_Missing.java
 D34Q4_Kth_Largest_Elem.java
+D35Q1_Trapping_Rainwater.java
+D36Q1_Product_Except_Self.java
 D3Q1_Print_Duplicates.java
 D3Q2_Permute_Arrays.java
 D3Q3_Count_Sort.java
